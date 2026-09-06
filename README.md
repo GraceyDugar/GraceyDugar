@@ -15,7 +15,7 @@
    ':::=#%%@%%%%%+--=*%@%@@@@%#-'    Hobbies.Software: ...... Shipping AI side-projects,
   ''',,.-%#%@%%##+----*#%%%@@@@*',                         prompt tinkering, automation
  '' '..,:%%%%%%#:--::::=@@@%@%%%-,   Hobbies.Hardware: ........... Underground robot for
-' '''.,:*@%%#%%@-.,,.'.-*%@%@%%-+=                                      iron-ore mining
+' '''.,:*@%%#%%@-.,,.'.-*%@%@%%-+=                     mining of iron ores at minesafeai.in
   '.',,:#*#%#%*%*,,...,*%#%@%%#=.=   Hobbies.Analog: ............................ Guitar
 '   .,..-,#%%-,:*:,..',=:=+@@%+*:,
 '''' ..':*+:+:.:--,..'-*,.-#@**=,,   - Contact
